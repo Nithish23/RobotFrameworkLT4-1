@@ -25,7 +25,7 @@ TC2 Add Emergency Contact
     #click Add
     #enter name, relationship, home telephone
     #click save
-
+    Close Browser
 
 
 
