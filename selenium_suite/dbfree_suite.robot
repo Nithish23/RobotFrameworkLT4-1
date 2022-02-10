@@ -34,7 +34,6 @@ TC1 Multiple Tab
     Click Element    name=submit
     Close Browser
 
-    
 TC2 Multiple Tab
     Open Browser    browser=chrome      executable_path=${EXECDIR}/drivers/chromedriver
     Maximize Browser Window
